@@ -24,7 +24,7 @@ import java.util.Map;
  * 第一种 暴力求解
  * 第二种 存入hash表中, 并通过target-nums[i]取hash表, 找到下标
  */
-public class TwoSum {
+public class LeetCode_1_287 {
 
     /**
      * 三刷: 一遍hash法

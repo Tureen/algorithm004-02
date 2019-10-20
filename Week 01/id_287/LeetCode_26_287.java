@@ -47,11 +47,11 @@ package com.tulane.homework;
  * 重点: 排序后的数组, 即后一个下标的数不会比当前的大 & 重复数组, 需要跳指针
  * 思路: 使用移动零的思路解题, 双指针移动交换
  */
-public class RemoveDuplicates {
+public class LeetCode_26_287 {
 
     public static void main(String[] args) {
         int[] nums = {1};
-        System.out.println(new RemoveDuplicates().removeDuplicates(nums));
+        System.out.println(new LeetCode_26_287().removeDuplicates(nums));
     }
 
     /**
